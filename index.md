@@ -1,7 +1,6 @@
 # Welcome to our Machine Learning TP2-Presentation!
 
-Christian Denmark
-Xiaohui Ling 
+By: Christian Denmark & Xiaohui Ling 
 
 
 ## Porto Seguro's Safe Driver Predictions
